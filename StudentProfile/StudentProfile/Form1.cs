@@ -16,7 +16,7 @@ namespace StudentProfile
         public Form1()
         {
             InitializeComponent();
-            label1.Text = "Student Profile — GitHub Beginner Lab\nContact Number: 09171234567";
+            label1.Text = "Student Profile - GitHub Beginner Lab\nContact Number: +639171234567";
         }
 
         private void label1_Click(object sender, EventArgs e)
